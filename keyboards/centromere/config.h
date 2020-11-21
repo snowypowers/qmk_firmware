@@ -40,6 +40,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define ONESHOT_TIMEOUT 500
 
+#define AUTO_SHIFT_TIMEOUT 150
+
+#define MOUSEKEY_DELAY 100
+#define MOUSEKEY_INTERVAL 16
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
